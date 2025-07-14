@@ -1,4 +1,4 @@
 # newlife-demo
 This is my repository.
 <br>
-Author - Aryan Arora
+Author - Aryan Arora (NSUT) okaysss
